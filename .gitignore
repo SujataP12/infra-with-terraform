@@ -1,0 +1,15 @@
+.terraform/
+
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+.terraform/plugins/
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terragrunt-cache/
+.terraformrc
+terraform.rc
+secret.json 
